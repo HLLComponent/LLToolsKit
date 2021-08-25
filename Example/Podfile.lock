@@ -1,0 +1,29 @@
+PODS:
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - LLToolsKit (1):
+    - FMDB
+    - MBProgressHUD
+  - MBProgressHUD (1.2.0)
+
+DEPENDENCIES:
+  - LLToolsKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - MBProgressHUD
+
+EXTERNAL SOURCES:
+  LLToolsKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  LLToolsKit: 11a3a903852b277f2bbc97c21816baff1ff250ea
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+
+PODFILE CHECKSUM: 3ef39074a9739bfd6faee78fc48b864826fe9570
+
+COCOAPODS: 1.10.1

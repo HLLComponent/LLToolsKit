@@ -1,0 +1,30 @@
+{
+  "name": "LLToolsKit",
+  "version": "1",
+  "summary": "LLToolsKit 基础工具.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/HLLComponent/LLToolsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wawahuhu": "huuuu1016@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/HLLComponent/LLToolsKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LLToolsKit/Classes/**/*",
+  "dependencies": {
+    "MBProgressHUD": [
+
+    ],
+    "FMDB": [
+
+    ]
+  }
+}

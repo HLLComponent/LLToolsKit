@@ -1,0 +1,6 @@
+framework module Pods_LLToolsKit_Example {
+  umbrella header "Pods-LLToolsKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
