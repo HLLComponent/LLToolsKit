@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LLToolsKit'
-  s.version          = '1'
+  s.version          = '1.0.1'
   s.summary          = 'LLToolsKit 基础工具.'
 
 # This description is used to generate tags and improve search results.
